@@ -1,3 +1,8 @@
+
+
+## Project Files
+
+```
 blakusnaku-titanic-dashboard
 │
 ├── data_raw/ 
@@ -12,3 +17,4 @@ blakusnaku-titanic-dashboard
 │
 ├── README.md 
 ├── reflection.md
+```
