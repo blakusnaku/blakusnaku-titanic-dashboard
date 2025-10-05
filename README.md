@@ -1,4 +1,13 @@
+# Titanic Survival Insights (Excel Dashboard)
 
+[← Back to Portfolio](https://github.com/blakusnaku/blakusnaku-analytics-portfolio)
+
+![Dashboard preview](assets/titanic_dashboard_v1.PNG)
+ 
+## Versions
+| Version | Files | Notes |
+|---|---|---|
+| v1 | [PDF](dashboards/titanic_dashboard_v1.pdf) · [XLSX](dashboards/titanic_dashboard_v1.xlsx) | First release |
 
 ## Project Files
 
@@ -18,7 +27,7 @@ blakusnaku-titanic-dashboard
 ├── docs/
 │
 ├── assets/
-│   ├── titanic_dashbaord.v1.PNG
+│   ├── titanic_dashboard.v1.PNG
 │
 ├── README.md 
 ├── reflection.md
