@@ -1,3 +1,4 @@
+[← Back to Main Portfolio](https://github.com/blakusnaku/blakusnaku-analytics-portfolio)
 # 🛳️ Titanic Survival Insights Dashboard
 
 An interactive Excel dashboard analyzing survival patterns among Titanic passengers — exploring how **gender, class, age,** and **port of embarkation** influenced survival outcomes.
